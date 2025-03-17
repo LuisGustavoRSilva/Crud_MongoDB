@@ -1,2 +1,6 @@
-# Crud_MongoDB
-Estudo do banco de dados mongo DB
+![GitHub License](https://img.shields.io/github/license/LuisGustavoRSilva/Crud_MongoDB)
+
+# Author:
+## Luis Gustavo Rodrigues Da Silva
+
+# Estudo do Mongodb DATABASE
